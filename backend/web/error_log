@@ -1,0 +1,80 @@
+[19-Jul-2016 09:33:39 America/Detroit] PHP Fatal error:  Class 'backend\models\PartType' not found in /home/undha/public_html/mypartz/backend/models/Partdetail.php on line 98
+[19-Jul-2016 09:34:10 America/Detroit] PHP Fatal error:  Class 'backend\models\VehicleMake' not found in /home/undha/public_html/mypartz/backend/models/Vehiclemodel.php on line 56
+[19-Jul-2016 09:35:13 America/Detroit] PHP Fatal error:  Class 'backend\models\PartType' not found in /home/undha/public_html/mypartz/backend/models/Partdetail.php on line 98
+[19-Jul-2016 09:35:17 America/Detroit] PHP Fatal error:  Class 'backend\models\VehicleMake' not found in /home/undha/public_html/mypartz/backend/models/Vehiclemodel.php on line 56
+[19-Jul-2016 09:36:34 America/Detroit] PHP Fatal error:  Class 'backend\models\PartType' not found in /home/undha/public_html/mypartz/backend/models/Partdetail.php on line 98
+[19-Jul-2016 09:38:28 America/Detroit] PHP Fatal error:  Class 'backend\models\VehicleMake' not found in /home/undha/public_html/mypartz/backend/models/Partdetail.php on line 179
+[19-Jul-2016 09:38:54 America/Detroit] PHP Fatal error:  Class 'backend\models\VehicleModel' not found in /home/undha/public_html/mypartz/backend/models/Partdetail.php on line 211
+[19-Jul-2016 09:39:21 America/Detroit] PHP Fatal error:  Class 'backend\models\VehicleMake' not found in /home/undha/public_html/mypartz/backend/models/Vehiclemodel.php on line 56
+[19-Jul-2016 09:40:45 America/Detroit] PHP Fatal error:  Class 'backend\models\VehicleMake' not found in /home/undha/public_html/mypartz/backend/models/Partdetail.php on line 107
+[19-Jul-2016 09:41:21 America/Detroit] PHP Fatal error:  Class 'backend\models\PartType' not found in /home/undha/public_html/mypartz/backend/models/Partdetail.php on line 109
+[19-Jul-2016 09:41:40 America/Detroit] PHP Fatal error:  Class 'backend\models\VehicleModel' not found in /home/undha/public_html/mypartz/backend/models/Partdetail.php on line 111
+[19-Jul-2016 09:41:56 America/Detroit] PHP Fatal error:  Class 'backend\models\VehicleModel' not found in /home/undha/public_html/mypartz/backend/models/Partdetail.php on line 111
+[19-Jul-2016 09:46:00 America/Detroit] PHP Fatal error:  Class 'backend\models\VehicleMake' not found in /home/undha/public_html/mypartz/backend/models/Partdetail.php on line 107
+[19-Jul-2016 09:46:42 America/Detroit] PHP Fatal error:  Class 'backend\models\PartType' not found in /home/undha/public_html/mypartz/backend/models/Partdetail.php on line 109
+[19-Jul-2016 09:47:36 America/Detroit] PHP Fatal error:  Class 'backend\models\VehicleMake' not found in /home/undha/public_html/mypartz/backend/models/Vehiclemodel.php on line 69
+[27-Jul-2016 09:00:30 America/Detroit] PHP Parse error:  syntax error, unexpected '?>' in /home/undha/public_html/mypartz/backend/views/seller/_form.php on line 15
+[05-Aug-2016 09:48:02 America/Detroit] PHP Parse error:  syntax error, unexpected ']' in /home/undha/public_html/mypartz/backend/models/PartdetailSearch.php on line 79
+[09-Aug-2016 05:19:29 America/Detroit] PHP Fatal error:  Call to undefined method yii\helpers\Html::url() in /home/undha/public_html/mypartz/backend/views/partdetail/index.php on line 61
+[09-Aug-2016 05:25:41 America/Detroit] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/undha/public_html/mypartz/backend/views/partdetail/index.php on line 60
+[09-Aug-2016 05:28:26 America/Detroit] PHP Parse error:  syntax error, unexpected 'user' (T_STRING) in /home/undha/public_html/mypartz/backend/views/partdetail/index.php on line 60
+[09-Aug-2016 05:32:11 America/Detroit] PHP Fatal error:  Call to undefined method yii\helpers\Html::url() in /home/undha/public_html/mypartz/backend/views/partdetail/index.php on line 60
+[09-Aug-2016 06:03:27 America/Detroit] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/undha/public_html/mypartz/backend/views/seller/view.php on line 48
+[09-Aug-2016 06:05:40 America/Detroit] PHP Fatal error:  Class 'PartDetails' not found in /home/undha/public_html/mypartz/backend/views/seller/view.php on line 48
+[09-Aug-2016 06:06:19 America/Detroit] PHP Fatal error:  Class 'PartDetails' not found in /home/undha/public_html/mypartz/backend/views/seller/view.php on line 48
+[09-Aug-2016 06:06:23 America/Detroit] PHP Fatal error:  Class 'PartDetails' not found in /home/undha/public_html/mypartz/backend/views/seller/view.php on line 48
+[09-Aug-2016 06:07:10 America/Detroit] PHP Fatal error:  Class 'Partdetail' not found in /home/undha/public_html/mypartz/backend/views/seller/view.php on line 48
+[09-Aug-2016 06:18:40 America/Detroit] PHP Fatal error:  Class 'Partdetail' not found in /home/undha/public_html/mypartz/backend/views/seller/view.php on line 48
+[09-Aug-2016 06:24:28 America/Detroit] PHP Fatal error:  Class 'PartDetails' not found in /home/undha/public_html/mypartz/backend/views/seller/view.php on line 48
+[09-Aug-2016 06:30:44 America/Detroit] PHP Fatal error:  Class 'backend\controllers\Partdetail' not found in /home/undha/public_html/mypartz/backend/controllers/SellerController.php on line 115
+[09-Aug-2016 06:33:14 America/Detroit] PHP Fatal error:  Class 'seller' not found in /home/undha/public_html/mypartz/backend/views/seller/view.php on line 48
+[09-Aug-2016 06:33:40 America/Detroit] PHP Fatal error:  Class 'Seller' not found in /home/undha/public_html/mypartz/backend/views/seller/view.php on line 48
+[09-Aug-2016 06:37:52 America/Detroit] PHP Fatal error:  Class 'Seller' not found in /home/undha/public_html/mypartz/backend/views/seller/view.php on line 48
+[09-Aug-2016 06:39:24 America/Detroit] PHP Fatal error:  Call to undefined method backend\models\Seller::model() in /home/undha/public_html/mypartz/backend/views/seller/view.php on line 49
+[09-Aug-2016 06:40:44 America/Detroit] PHP Fatal error:  Call to undefined method backend\models\Seller::PartDetails() in /home/undha/public_html/mypartz/backend/views/seller/view.php on line 49
+[10-Aug-2016 02:52:28 America/Detroit] PHP Fatal error:  Class 'Partdetail' not found in /home/undha/public_html/mypartz/backend/views/seller/index.php on line 53
+[10-Aug-2016 03:15:57 America/Detroit] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/undha/public_html/mypartz/backend/views/seller/view.php on line 49
+[10-Aug-2016 05:48:00 America/Detroit] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/undha/public_html/mypartz/backend/models/SellerSearch.php on line 82
+[10-Aug-2016 05:48:27 America/Detroit] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/undha/public_html/mypartz/backend/models/SellerSearch.php on line 82
+[10-Aug-2016 05:48:34 America/Detroit] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/undha/public_html/mypartz/backend/models/SellerSearch.php on line 82
+[10-Aug-2016 05:49:13 America/Detroit] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/undha/public_html/mypartz/backend/models/SellerSearch.php on line 83
+[10-Aug-2016 06:47:48 America/Detroit] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/undha/public_html/mypartz/backend/models/SellerSearch.php on line 60
+[10-Aug-2016 06:50:59 America/Detroit] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/undha/public_html/mypartz/backend/models/SellerSearch.php on line 69
+[10-Aug-2016 06:53:21 America/Detroit] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/undha/public_html/mypartz/backend/models/SellerSearch.php on line 69
+[10-Aug-2016 07:30:11 America/Detroit] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/undha/public_html/mypartz/backend/models/SellerSearch.php on line 45
+[10-Aug-2016 07:30:47 America/Detroit] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/undha/public_html/mypartz/backend/models/SellerSearch.php on line 61
+[10-Aug-2016 07:31:04 America/Detroit] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/undha/public_html/mypartz/backend/models/SellerSearch.php on line 71
+[10-Aug-2016 07:31:24 America/Detroit] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/undha/public_html/mypartz/backend/models/SellerSearch.php on line 71
+[10-Aug-2016 07:43:06 America/Detroit] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/undha/public_html/mypartz/backend/models/SellerSearch.php on line 66
+[10-Aug-2016 09:28:17 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/undha/public_html/mypartz/backend/models/UserSearch.php on line 58
+[10-Aug-2016 09:50:36 America/Detroit] PHP Fatal error:  Class 'backend\controllers\Seller' not found in /home/undha/public_html/mypartz/backend/controllers/UserController.php on line 59
+[10-Aug-2016 09:50:49 America/Detroit] PHP Fatal error:  Class 'backend\controllers\Seller' not found in /home/undha/public_html/mypartz/backend/controllers/UserController.php on line 59
+[10-Aug-2016 09:51:49 America/Detroit] PHP Fatal error:  Class 'backend\controllers\Seller' not found in /home/undha/public_html/mypartz/backend/controllers/UserController.php on line 105
+[12-Aug-2016 05:25:35 America/Detroit] PHP Parse error:  syntax error, unexpected ''Status'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 57
+[12-Aug-2016 05:27:54 America/Detroit] PHP Parse error:  syntax error, unexpected ''Status'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 57
+[12-Aug-2016 05:35:21 America/Detroit] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 38
+[12-Aug-2016 05:36:55 America/Detroit] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 39
+[12-Aug-2016 05:39:19 America/Detroit] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 39
+[12-Aug-2016 05:48:04 America/Detroit] PHP Parse error:  syntax error, unexpected ''value'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 39
+[12-Aug-2016 05:51:00 America/Detroit] PHP Parse error:  syntax error, unexpected ''value'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 39
+[12-Aug-2016 05:53:51 America/Detroit] PHP Parse error:  syntax error, unexpected ''value'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 39
+[12-Aug-2016 05:55:27 America/Detroit] PHP Parse error:  syntax error, unexpected ''value'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 39
+[12-Aug-2016 05:55:46 America/Detroit] PHP Parse error:  syntax error, unexpected ''value'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 39
+[12-Aug-2016 06:16:15 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 39
+[12-Aug-2016 06:18:56 America/Detroit] PHP Parse error:  syntax error, unexpected ',' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 40
+[12-Aug-2016 06:19:28 America/Detroit] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 41
+[12-Aug-2016 06:19:46 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 41
+[12-Aug-2016 06:23:45 America/Detroit] PHP Parse error:  syntax error, unexpected '=' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 43
+[12-Aug-2016 06:26:47 America/Detroit] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 43
+[12-Aug-2016 06:31:51 America/Detroit] PHP Parse error:  syntax error, unexpected ''value'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 48
+[12-Aug-2016 06:34:59 America/Detroit] PHP Parse error:  syntax error, unexpected ''value'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 40
+[12-Aug-2016 06:58:34 America/Detroit] PHP Fatal error:  Class 'Lookup' not found in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 39
+[12-Aug-2016 07:00:35 America/Detroit] PHP Fatal error:  Class 'yii\helpers\Lookup' not found in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 40
+[12-Aug-2016 07:11:30 America/Detroit] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 39
+[12-Aug-2016 07:11:54 America/Detroit] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 39
+[12-Aug-2016 07:11:55 America/Detroit] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ']' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 39
+[12-Aug-2016 07:11:59 America/Detroit] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ']' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 39
+[12-Aug-2016 07:19:43 America/Detroit] PHP Parse error:  syntax error, unexpected '100' (T_LNUMBER), expecting ',' or ';' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 50
+[12-Aug-2016 07:19:48 America/Detroit] PHP Parse error:  syntax error, unexpected '100' (T_LNUMBER), expecting ',' or ';' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 50
+[12-Aug-2016 07:19:50 America/Detroit] PHP Parse error:  syntax error, unexpected '100' (T_LNUMBER), expecting ',' or ';' in /home/undha/public_html/mypartz/backend/views/partdetail/view.php on line 50
+[23-Aug-2016 05:36:38 America/Detroit] PHP Parse error:  syntax error, unexpected 'line' (T_STRING) in /home/undha/public_html/mypartz/backend/controllers/PartdetailController.php on line 201

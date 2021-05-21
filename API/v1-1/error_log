@@ -1,0 +1,16 @@
+[30-Jun-2016 03:10:08 America/Detroit] PHP Fatal error:  Call to a member function dispensary_list() on a non-object in /home/undha/public_html/wikileac/application/controllers/Dispensary.php on line 14
+[30-Jun-2016 10:09:58 America/Detroit] PHP Fatal error:  Cannot redeclare Dispensary_model::single_dispensary() in /home/undha/public_html/wikileac/application/models/Dispensary_model.php on line 49
+[30-Jun-2016 10:10:01 America/Detroit] PHP Fatal error:  Cannot redeclare Dispensary_model::single_dispensary() in /home/undha/public_html/wikileac/application/models/Dispensary_model.php on line 49
+[30-Jun-2016 10:10:29 America/Detroit] PHP Fatal error:  Cannot redeclare Dispensary_model::single_dispensary() in /home/undha/public_html/wikileac/application/models/Dispensary_model.php on line 49
+[30-Jun-2016 10:10:29 America/Detroit] PHP Fatal error:  Cannot redeclare Dispensary_model::single_dispensary() in /home/undha/public_html/wikileac/application/models/Dispensary_model.php on line 49
+[30-Jun-2016 10:24:31 America/Detroit] PHP Fatal error:  Cannot redeclare Dispensary_model::single_dispensary() in /home/undha/public_html/wikileac/application/models/Dispensary_model.php on line 49
+[05-Jul-2016 02:52:25 America/Detroit] PHP Fatal error:  Can't use method return value in write context in /home/undha/public_html/wikileac/application/controllers/Dispensary.php on line 17
+[05-Jul-2016 02:52:31 America/Detroit] PHP Fatal error:  Can't use method return value in write context in /home/undha/public_html/wikileac/application/controllers/Dispensary.php on line 17
+[05-Jul-2016 02:52:39 America/Detroit] PHP Fatal error:  Can't use method return value in write context in /home/undha/public_html/wikileac/application/controllers/Dispensary.php on line 17
+[05-Jul-2016 02:53:23 America/Detroit] PHP Fatal error:  Can't use method return value in write context in /home/undha/public_html/wikileac/application/controllers/Dispensary.php on line 17
+[05-Jul-2016 02:54:24 America/Detroit] PHP Fatal error:  Can't use method return value in write context in /home/undha/public_html/wikileac/application/controllers/Dispensary.php on line 17
+[05-Jul-2016 02:54:27 America/Detroit] PHP Fatal error:  Can't use method return value in write context in /home/undha/public_html/wikileac/application/controllers/Dispensary.php on line 17
+[05-Jul-2016 07:53:25 America/Detroit] PHP Fatal error:  Cannot use [] for reading in /home/undha/public_html/wikileac/application/controllers/Dispensary.php on line 92
+[09-Aug-2016 09:13:01 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/undha/public_html/mypartz/api/application/models/Comman_model.php on line 162
+[12-Aug-2016 09:20:42 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/undha/public_html/mypartz/api/application/controllers/User.php on line 406
+[24-Aug-2016 03:22:51 America/Detroit] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/undha/public_html/mypartz/api/application/controllers/User.php on line 579
